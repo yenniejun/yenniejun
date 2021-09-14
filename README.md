@@ -1,4 +1,4 @@
-## Hi there, I'm Yennie 👋
+## Hi there, I'm Yennie 🌞
 
 ### About Me
 * I am currently working as a data scientist with the [UN Global Pulse](https://www.unglobalpulse.org/) on monitoring and analyzing radio transcriptions for public health (see this [blog post](https://www.unglobalpulse.org/2021/05/who-and-un-global-pulse-are-building-a-social-listening-radio-tool-to-aid-the-covid-19-infodemic-response/) for more details). 
