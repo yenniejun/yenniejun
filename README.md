@@ -1,13 +1,10 @@
 ## Hi there, I'm Yennie 👋
 
 ### About Me
-❋ I am currently studying for my Master's in Social Data Science at the Oxford Internet Institute. 
-
-❋ Previously research assistant with the Big Data Studies Lab at Seoul National University
-
-❋ Previously software engineer at Microsoft
-
-❋ Graduated from Tufts University (2017) with a double major in computer science and history
+* I am currently working as a data scientist with the [UN Global Pulse](https://www.unglobalpulse.org/) on monitoring and analyzing radio transcriptions for public health (see this [blog post](https://www.unglobalpulse.org/2021/05/who-and-un-global-pulse-are-building-a-social-listening-radio-tool-to-aid-the-covid-19-infodemic-response/) for more details). 
+* I have just completed my Master's in Social Data Science at the Oxford Internet Institute.
+* I have previously worked as a software engineer at Microsoft and a researcher with the Big Data Studies Lab at Seoul National University 
+* I graduated from Tufts University (2017) with a double major in computer science and history
 
 
 
