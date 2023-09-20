@@ -1,7 +1,7 @@
 ## Hi there, I'm Yennie 🌞
 
 ### About Me
-* I am a machine learning engineer at [Truveta](https://www.truveta.com/). I work on projects related to generative AI or data analysis on the side. 
+* I am a machine learning engineer and independent AI researcher. I work on projects related to generative AI or data analysis on the side. 
 * Previously, I have worked as a data scientist or software engineer with the [United Nations Global Pulse](https://www.unglobalpulse.org/), [Seoul National University](https://bigdatastudies.net/), and Microsoft. I also have a Master's in [Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/?structure) from the Oxford Internet Institute.
 * I write articles about some of these projects on my [personal blog](https://blog.yenniejun.com/) and on [Medium](https://medium.com/@yennie.jun)
 
